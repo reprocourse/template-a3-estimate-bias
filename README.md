@@ -51,14 +51,14 @@ print(p_value)
 
 ## This assignment
 
-For this assignment, we'll ask you to edit [`bias_estimate.py`](https://github.com/reprocourse/template-a3-estimate-bias/blob/master/bias_estimates.py)
+For this assignment, we'll ask you to open a pull request editing [`bias_estimate.py`](https://github.com/reprocourse/template-a3-estimate-bias/blob/master/bias_estimates.py)
 to repeat the above procedure 200 times.
 
 That is, if we consider the sampling procedure above as one "experiment",
 we'd like to re-do that experiment many times. We'll then only consider the significant experiments,
 estimating how "publishing" or considering only significant effects impacts the literature in a field.
 
-After you have edited [`bias_estimate.py`](https://github.com/reprocourse/template-a3-estimate-bias/blob/master/bias_estimates.py) to include the relevant code, please add your answer below:
+In the same pull request as your edits to [`bias_estimate.py`](https://github.com/reprocourse/template-a3-estimate-bias/blob/master/bias_estimates.py), please also add your answer below:
 
 ### What is the average effect found for the "significant" experiments?
 
